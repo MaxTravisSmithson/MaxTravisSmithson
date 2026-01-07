@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MaxTravisSmithson
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C# and unity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web and game development
+- 🌱 I’m currently learning C#, Angular, and Unity
 
 <!---
 MaxTravisSmithson/MaxTravisSmithson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
